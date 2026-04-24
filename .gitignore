@@ -1,0 +1,23 @@
+# Root .gitignore
+.DS_Store
+.env
+.env.local
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
