@@ -1,4 +1,4 @@
-# KetCe Catering Application
+# KetCe (Ketering Ceria) Application
 
 A production-ready catering order management system with WhatsApp integration, built with a clean modular monolith architecture.
 
